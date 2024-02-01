@@ -10,3 +10,12 @@ Thumbs.db
 /app/app.js
 /app/main.js
 /app/**/*.map
+
+# Yarn
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
